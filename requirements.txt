@@ -4,3 +4,8 @@ numpy
 h5py
 matplotlib
 plotly
+folium
+streamlit-folium
+geopandas
+shapely
+openpyxl
