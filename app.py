@@ -101,6 +101,6 @@ else:
     if os.path.exists('cern_insar_anomalies.xlsx'):
         df = pd.read_excel('cern_insar_anomalies.xlsx')
         st.subheader("📊 Extracted High-Risk Geodetic Anomaly Table")
-        st.dataframe(df, use_container_width="stretch")
+        st.dataframe(df, use_container_width='stretch')
     else:
         st.error("No data files found in repository.")
