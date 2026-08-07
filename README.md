@@ -29,7 +29,7 @@ An end-to-end spaceborne synthetic aperture radar (SAR) time-series processing p
 ## 🗂️ Core Repository Deliverables
 
 * 💻 **`app.py`**: Streamlit interactive web application for real-time pixel time-series extraction and anomaly thresholding.
-* 📓 **`Untitled.ipynb`**: Complete Python / MintPy SBAS inversion and time-series processing notebook.
+* 📓 **`cern_sbas_processing.ipynb`**: Complete Python / MintPy SBAS inversion and time-series processing notebook.
 * 🗺️ **`velocity.kmz`**: 3D spatial velocity map formatted for interactive inspection in Google Earth.
 * 📊 **`cern_insar_anomalies.xlsx`**: Filtered geodetic risk report capturing high-subsidence pixels ($<-30\text{ mm}$).
 
